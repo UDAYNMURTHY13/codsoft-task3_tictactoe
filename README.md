@@ -1,4 +1,4 @@
-# codsoft-task3_tictactoe
+
 # Tic-Tac-Toe AI Game
 
 This is a web-based Tic-Tac-Toe game where a human player can play against an unbeatable AI. The AI uses the Minimax algorithm with Alpha-Beta Pruning to ensure optimal play. The game also features a visually appealing background with floating rings.
